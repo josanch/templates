@@ -1,0 +1,78 @@
+# Rename this file to ".gitignore" before committing to your repository.
+
+# IDE-specific files
+/.vscode/
+/.idea/
+/node_modules/
+
+# OS specific files
+/.DS_Store
+/thumbs.db
+
+# Build output and temporary files
+/build/
+/dist/
+/coverage/
+/tmp/
+*.log
+
+# Git-specific files
+/.git/
+/.gitignore
+
+# Package manager files
+/yarn.lock
+/package-lock.json
+
+# Editor-specific files
+/.editorconfig
+/.eslintrc
+/.prettierrc
+
+# React Native specific files
+/ios/
+/android/
+
+# Specific files
+*.swp
+*.bak
+*.tmp
+*.swx
+*.aux
+*.log
+*.dvi
+*.bbl
+*.blg
+*.lof
+*.lot
+*.toc
+*.idx
+*.ilg
+*.ind
+*.out
+*.aux
+*.bbl
+*.blg
+*.lof
+*.lot
+*.toc
+*.idx
+*.ilg
+*.ind
+*.out
+
+# Python-specific files
+__pycache__/
+.pytest_cache/
+.tox/
+*.pyc
+*.pyo
+*.so
+*.egg-info
+*.egg
+
+# R-specific files
+.Rproj.user
+.Rhistory
+.RData
+.Rprofile
